@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "MealToGo",
-    "slug": "MealToGo",
-    "version": "1.0.0",
+    "name": "SnackHack",
+    "slug": "SnackHack",
+    "version": "0.0.1",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
